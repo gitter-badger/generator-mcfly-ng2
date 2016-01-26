@@ -2,10 +2,10 @@
 [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]    
 [![Dependency Status][daviddm-image]][daviddm-url] [![Dependency Dev Status][daviddm-dev-image]][daviddm-dev-url]    
 
-# generator-mcfly-ng2
-
 [![NPM][npm-nodei-image]][npm-nodei-url]
 
+# generator-mcfly-ng2
+A [Yeoman](http://yeoman.io) generator for scaffolding an app using angular2 and webpack
 
 ## Installation
 
