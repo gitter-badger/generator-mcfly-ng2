@@ -1,6 +1,6 @@
-[![NPM version][npm-image]][npm-url] 
-[![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-[![Dependency Status][daviddm-image]][daviddm-url] [![Dependency Dev Status][daviddm-dev-image]][daviddm-dev-url] 
+[![NPM version][npm-image]][npm-url]    
+[![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]    
+[![Dependency Status][daviddm-image]][daviddm-url] [![Dependency Dev Status][daviddm-dev-image]][daviddm-dev-url]    
 
 # generator-mcfly-ng2
 
