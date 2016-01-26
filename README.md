@@ -1,6 +1,11 @@
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+[![NPM version][npm-image]][npm-url] 
+[![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+[![Dependency Status][daviddm-image]][daviddm-url] [![Dependency Dev Status][daviddm-dev-image]][daviddm-dev-url] 
 
 # generator-mcfly-ng2
+
+[![NPM][npm-nodei-image]][npm-nodei-url]
+
 
 ## Installation
 
@@ -78,9 +83,13 @@ assert.JSONFileContent('package.json', {
 
 [npm-image]: https://badge.fury.io/js/generator-mcfly-ng2.svg
 [npm-url]: https://npmjs.org/package/generator-mcfly-ng2
+[npm-nodei-image]: https://nodei.co/npm/generator-mcfly-ng2.png?downloads=false&downloadRank=false&stars=false
+[npm-nodei-url]: https://nodei.co/npm/generator-mcfly-ng2
 [travis-image]: https://travis-ci.org/mcfly-io/generator-mcfly-ng2.svg?branch=master
 [travis-url]: https://travis-ci.org/mcfly-io/generator-mcfly-ng2
 [daviddm-image]: https://david-dm.org/mcfly-io/generator-mcfly-ng2.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/mcfly-io/generator-mcfly-ng2
+[daviddm-dev-image]: https://david-dm.org/mcfly-io/generator-mcfly-ng2/dev-status.svg?theme=shields.io
+[daviddm-dev-url]: https://david-dm.org/mcfly-io/generator-mcfly-ng2#info=devDependencies
 [coveralls-image]: https://coveralls.io/repos/mcfly-io/generator-mcfly-ng2/badge.svg
 [coveralls-url]: https://coveralls.io/r/mcfly-io/generator-mcfly-ng2
